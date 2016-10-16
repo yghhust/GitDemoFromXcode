@@ -8,7 +8,6 @@
 
 import Foundation
 
-//let a＝10;
 //var b=12.0;
 print("Hello, World!");
 
