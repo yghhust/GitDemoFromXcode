@@ -8,6 +8,9 @@
 
 import Foundation
 
+let a=12;
+let str="I have \(a) pieces of fruit.";
+print(str);
 //var b=12.0;
-print("Hello, World!");
+print("\nHello, World!");
 
